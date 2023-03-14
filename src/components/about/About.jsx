@@ -49,7 +49,7 @@ Apart from my professional endeavors, I have volunteered at Asembo Skills for Ho
 <br />
 
 In conclusion, my diverse background in technology and media, combined with my passion for innovation and exploration, makes me an asset to any organization. I possess skills and expertise in software development, web design, graphic design, video editing, journalism, radio production, and cybersecurity, making me well-rounded and adaptable to various projects.
- <br /> Please click the link in the homepage for my (CV DOWNLOAD) .
+ <br /> Please click the link in the homepage for my curriculum vitae.(CV DOWNLOAD) .
          </p>
 
          <a href="#contact" className='btn btn-primary'>Let's Talk.</a>
