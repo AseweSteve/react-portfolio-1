@@ -39,7 +39,17 @@ const About = () => {
          </div>
 
          <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem non fugit excepturi omnis, adipisci enim fuga obcaecati, suscipit hic velit, praesentium officiis? Asperiores corporis porro possimus placeat consequatur, atque neque. more lines
+         I am an ambitious, self-disciplined, hardworking and committed young Kenyan. Currently, I serve as a Project Administrator and Curriculum Developer at Project Digital Kenya, where I have gained experience in managing projects and developing courses. I have also received additional training at Power Learn Project, where I have honed my skills as a software developer. I have expertise in programming languages such as Javascript, HTML, CSS, React, NodeJs, Npm etc.. In addition, I am a Google Developer with a certification in Responsive Web Specialist, which has strengthened my skills in web development. I am also a talented graphic designer, creating posters, banners, and other visual aids. My video editing skills have enabled me to create high-quality content for events.
+<br />
+
+As an accredited journalist by the Media Council of Kenya (MCK), I have honed my writing and reporting skills. I have experience in radio presentation and production, having hosted several radio shows that have earned me accolades. I am proficient in English and Swahili, which have helped me in communicating effectively with a diverse audience. I have also pursued cybersecurity training at ITExperience Inc., IBM Skills Build, and Fortinet, which has equipped me with the knowledge and skills to identify vulnerabilities, ethical hacking, and security protocols.
+<br />
+
+Apart from my professional endeavors, I have volunteered at Asembo Skills for Hope, an organization where I served as an IT consultant, records manager, and transcriptor. In my free time, I enjoy exploring new tech and media trends, playing football, and traveling. I am also an avid reader, keeping up with the latest news and trends through various publications and online forums.
+<br />
+
+In conclusion, my diverse background in technology and media, combined with my passion for innovation and exploration, makes me an asset to any organization. I possess skills and expertise in software development, web design, graphic design, video editing, journalism, radio production, and cybersecurity, making me well-rounded and adaptable to various projects.
+ <br /> Please click the link in the homepage for my (CV DOWNLOAD) .
          </p>
 
          <a href="#contact" className='btn btn-primary'>Let's Talk.</a>

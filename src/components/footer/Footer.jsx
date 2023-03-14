@@ -26,7 +26,7 @@ const Footer = () => {
         <a href="https://github.com/AseweSteve" target="_blank"><FaGithub/></a>
         <a href="https://web.facebook.com/profile.php?id=100088667111988" target="_blank"><FaFacebookF /></a>
         <a href="https://instagram.com/AseweSteve?igshid=YmMyMTA2M2Y=" target="_blank"><FiInstagram /></a>
-        <a href="https://twitter.com/AseweSteve" target="_blank"><IoLogoTwitter /></a>
+        <a href="https://twitter.com/AseweStephene?t=R-dtdf41gmRZYzR3LjBYJg&s=09" target="_blank"><IoLogoTwitter /></a>
       </div>
 
       <div className="footer_copyright">
